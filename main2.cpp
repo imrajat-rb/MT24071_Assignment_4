@@ -1,7 +1,4 @@
-main2.cpp:
-
-
-
+#include "InstituteSystem.h"
 #include <iostream>
 #include <fstream>
 #include <regex>
