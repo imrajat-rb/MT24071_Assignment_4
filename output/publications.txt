@@ -1,0 +1,22 @@
+Parsed BibTeX Entries:
+
+Publication 1:
+- author: Ghosh, Aritrik and Bhattacharya, Arani
+- doi: 10.1109/DySPAN53946.2021.9677290
+- title: A Gaussian Process Based Technique of Efficient Sensor Selection for Transmitter Localization
+- venue: IEEE International Symposium on Dynamic Spectrum Access Networks
+- year: 2021
+This entry is invalid: No author is affiliated.
+
+
+Publication 2:
+- author: Paramita, Saswati and Bhattacharya, Arani and Ahmad, Rizwana and Bohara, Vivek Ashok and Srivastava, Anand
+- doi: 10.1109/TVT.2024.3477310
+- journal: IEEE Transactions on Vehicular Technology
+- number: 
+- pages: 1-13
+- title: Flow-based Rate Maximization for Link Aggregation Enabled Hybrid LiFi-WiFi Network
+- volume: 
+- year: 2024
+This entry is invalid: No author is affiliated.
+
